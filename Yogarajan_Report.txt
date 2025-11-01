@@ -1,0 +1,41 @@
+================================================
+        BMI TRACKER - USER REPORT
+================================================
+
+User Information:
+  Name: Yogarajan
+  Age: 18
+  Gender: Male
+  Member Since: 01/11/2025 08:29:52
+
+Statistics:
+  Total Records: 3
+  Average BMI: 17.58
+  BMI Range: 17.36 - 17.90
+  Weight Range: 55.0 - 58.0 kg
+
+BMI Records History:
+------------------------------------------------
+Record #1
+  Date: 01/11/2025 08:29:52
+  Weight: 55.0 kg
+  Height: 178.0 cm
+  BMI: 17.36
+  Category: Underweight
+------------------------------------------------
+Record #2
+  Date: 01/11/2025 08:30:26
+  Weight: 56.0 kg
+  Height: 179.0 cm
+  BMI: 17.48
+  Category: Underweight
+------------------------------------------------
+Record #3
+  Date: 01/11/2025 08:30:35
+  Weight: 58.0 kg
+  Height: 180.0 cm
+  BMI: 17.90
+  Category: Underweight
+------------------------------------------------
+
+Report generated on: 01/11/2025 08:32:16

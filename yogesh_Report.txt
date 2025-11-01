@@ -1,0 +1,27 @@
+================================================
+        BMI TRACKER - USER REPORT
+================================================
+
+User Information:
+  Name: yogesh
+  Age: 19
+  Gender: Male
+  Member Since: 27/10/2025 16:31:08
+
+Statistics:
+  Total Records: 1
+  Average BMI: 17.92
+  BMI Range: 17.92 - 17.92
+  Weight Range: 64.0 - 64.0 kg
+
+BMI Records History:
+------------------------------------------------
+Record #1
+  Date: 27/10/2025 16:31:08
+  Weight: 64.0 kg
+  Height: 189.0 cm
+  BMI: 17.92
+  Category: Underweight
+------------------------------------------------
+
+Report generated on: 27/10/2025 16:31:18
